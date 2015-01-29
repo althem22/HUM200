@@ -1,5 +1,6 @@
 # HUM200
 Hacking Humanities
+http://open.spotify.com/user/126064517/playlist/1RDYxLMDmTMgS7a9u6Ii8d
 1. Hide in Your Shell -- Supertramp
 An awesome band from the '70s - '80s. This song represents how I was feeling before I left for college.
 
